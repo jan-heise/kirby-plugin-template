@@ -1,0 +1,17 @@
+name:
+  en: Pluginname
+  de: Pluginname
+icon: text
+tabs:
+  content:
+    label:
+      en: Content
+      de: Inhalt
+    fields:
+      info:
+        label:
+          en: Info
+          de: Info
+          text:
+            en: Please edit the `pluginname.yml` file
+            de: Bitte editieren Sie die `pluginname.yml` Datei

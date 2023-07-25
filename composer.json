@@ -1,0 +1,19 @@
+{
+  "name": "heise.rocks/default-template",
+  "type": "template",
+  "description": "this is a basic template for kirby plugins",
+  "keywords": ["template"],
+  "minimum-stability": "stable",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jan Heise",
+      "email": "jan@heise.rocks",
+      "homepage": "https://heise.rocks",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+  }
+}
